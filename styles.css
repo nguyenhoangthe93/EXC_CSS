@@ -1,6 +1,10 @@
 h1 {
-  color: green;
-}
-p {
-  color: blue;
+  width: 50%;
+  color: rgb(0, 250, 0);
+  text-align: center;
+  background-color: rgb(171, 170, 169);
+  height: 80px;
+  padding: 80px 20px 40px 20px;
+  background-clip: content-box;
+  border: 20px solid rgb(0, 250, 0);
 }
